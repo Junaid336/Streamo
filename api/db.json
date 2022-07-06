@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "trying editing first stream",
+      "userId": "111860590737835962261",
+      "id": 1
+    },
+    {
+      "description": "checking programmatic navigation",
+      "title": "Programmatically Navigation",
+      "userId": "111860590737835962261",
+      "id": 3
+    },
+    {
+      "title": "bla bla",
+      "description": "creating stream from other account",
+      "userId": "110552840984741936118",
+      "id": 5
+    },
+    {
+      "title": "anoher one",
+      "description": "fsdf",
+      "userId": "110552840984741936118",
+      "id": 6
+    }
+  ]
+}
